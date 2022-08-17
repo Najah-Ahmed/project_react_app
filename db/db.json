@@ -1,0 +1,10 @@
+{
+  "books": [
+    { "id": 1, "checked": false, "bookName": "richdad & poor Dad" },
+    { "id": 2, "checked": false, "bookName": "Never split the difference" },
+    { "id": 3, "checked": false, "bookName": "think and grow rich" },
+    { "id": 4, "checked": false, "bookName": "inteligence inverstor" },
+    { "id": 5, "checked": false, "bookName": "the rules of works" },
+    { "id": 6, "checked": false, "bookName": "the art of sublime dont fuck " }
+  ]
+}
